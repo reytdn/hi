@@ -14,17 +14,7 @@ public class BOOKS {
     }
 
     //BOOKS returning of inputs
-    public String gettype(){
-        return type;
-    }
-
-    public String getgenre(){
-        return genre;
-    }
-
-    public String gettitle(){
-        return title;
-    }
+   
    
 
 }
