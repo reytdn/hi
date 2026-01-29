@@ -6,12 +6,7 @@ public class BOOKS {
     private int borrowtime;
 
     //BOOKS Constructor
-    public BOOKS(String type, String genre, String title, int borrowtime){
-        this.type = type;
-        this.genre = genre;
-        this.title = title;
-        this.borrowtime = borrowtime;
-    }
+    
 
     //BOOKS returning of inputs
    
