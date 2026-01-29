@@ -25,11 +25,6 @@ public class BOOKS {
     public String gettitle(){
         return title;
     }
-    
-    public int getborrowtime(){
-        return borrowtime;
-    }
-    
-
+   
 
 }
